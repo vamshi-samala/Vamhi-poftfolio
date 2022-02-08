@@ -1,0 +1,228 @@
+html
+{
+    scroll-behavior: smooth;
+}
+body
+{
+    margin: 0px;
+    background-color: rgb(245, 250, 246);
+}
+.name
+{
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+}
+.head
+{
+    background-color: rgb(69, 33, 228);
+    display: block;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+.list
+{
+    text-align: right;
+    padding-bottom: 1rem;
+}
+.title-image
+{
+    height: 3rem;
+    width: 3rem;
+}
+.links
+{
+    display: inline;
+    padding-right: 1rem;
+    color: rgb(241, 240, 240);
+    text-decoration: none;
+    font-style: italic;
+    text-align: center;
+}
+ul :hover
+{
+    color: blue;
+    font-size: larger;
+}
+.start
+{
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+    display: block;
+}
+.project
+{
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 300px;
+    display: block;
+}
+.coding
+{
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 300px;
+    display: block;
+}
+.blog
+{
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+    display: block;
+}
+h1
+{
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+    font-family: initial;
+    font-weight: 600;
+    color: red;
+}
+.highlight
+{
+    color: red;
+}
+.one-class
+{
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+    font-family: initial;
+    font-weight: 600;
+    color: whitesmoke;
+    background-color: rgb(69, 33, 228);
+    padding-bottom: 0.25rem;
+    padding-top: 0.25rem;
+}
+h3
+{
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+    font-family: initial;
+    font-weight: 600;
+    color: rgb(69, 33, 228);
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    border-radius: 2rem;
+}
+.projects_btn
+{
+    border-radius: 50%;
+    background-color: lightyellow;
+    text-decoration: none;
+    width: auto;
+    height: auto;
+    border-style: solid;
+    border: thick;
+    color: midnightblue;
+    font-size: medium;
+    padding: 1rem;
+}
+.one-class a:hover
+{
+    background-color: midnightblue;
+    color: lightyellow;
+}
+.projects_btn-2
+{
+    border-radius: 50%;
+    background-color:rgb(69, 33, 228);
+    text-decoration: none;
+    width: auto;
+    height: auto;
+    border-style: solid;
+    border: thick;
+    color: lightyellow;
+    font-size: medium;
+    padding: 1rem;
+}
+.blogs .projects_btn-2:hover
+{
+    background-color: midnightblue;
+    color: lightyellow
+}
+.social-icons
+{
+    background-color: rgb(69, 207, 241);
+    text-align: center;
+    font-size: medium;
+   
+}
+.links-1
+{
+    text-align: center;
+    display: block;
+}
+marquee
+{
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+.facebook
+{
+    height: 4rem;
+    width: 4rem;
+}
+.github
+{
+    width: 3rem;
+    height: 3rem;
+}
+.twitter
+{
+    width: 3rem;
+    height: 3rem;
+}
+.instagram
+{
+    width: 3rem;
+    height: 3rem;
+}
+.contact 
+{
+    color: midnightblue;
+    padding-top: 1rem;
+    font-size: xx-large;
+}
+.footer-links
+{
+    padding-bottom: 5rem;
+}
+p
+{
+    text-align: center;
+    color: darkred;
+    font-style: italic;
+}
+.links-2
+{
+    text-align: center;
+    display: block;
+    padding-bottom: 1rem;
+    text-decoration: none;
+    color: red;
+}
+.all-projects a:hover
+{
+    color: royalblue;
+}
+.si{
+    display: inline;
+    padding-right: 1rem;
+    color: rgb(19, 41, 245);
+    text-decoration: none;
+    font-style: italic;
+    text-align: center;
+
+}
